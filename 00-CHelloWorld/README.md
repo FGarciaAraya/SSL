@@ -16,5 +16,11 @@
   ### Restricciones
   - Usar la versión C23 del lenguaje C.
 
-## El trabajo
-Siendo este el tp 0 de la materia va a servir para darnos una introduccion a las herramientas que vamos a utilizar a lo largo de la cursada ademas de un pequeño ejercicio para tener un acercamiento a estas
+## Resolución
+  ### Compilador
+  El compilador seleccionado fue el `gcc` descargado mediante `MinGW` siguiendo el tutorial de la documentación.
+  ### Version del compilador
+  > [!CAUTION]
+  > FALTA ELEGIR UNA VERSION EN COMÚN CON EL EQUIPO  
+  ### Version de C
+  
