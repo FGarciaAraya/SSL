@@ -1,5 +1,4 @@
-# Tp 00
-> "Hello, World!" en C
+# Tp 00 "Hello, World!" en C
 
 ## Enunciado
   ### Objetivos
