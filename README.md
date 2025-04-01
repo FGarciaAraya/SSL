@@ -6,4 +6,4 @@
 ## Datos de la cursada
 **Curso:** K2002  
 **Año:** 2025  
-**Cuatrimestre:** 1er cuatrimestre
+**Modalidad:** Anual
