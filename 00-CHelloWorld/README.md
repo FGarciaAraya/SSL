@@ -20,8 +20,6 @@
   ### Compilador
   El compilador seleccionado fue el `gcc` descargado mediante `MinGW` siguiendo el tutorial de la documentación.
   ### Version del compilador
-  > [!CAUTION]
-  > FALTA ELEGIR UNA VERSION EN COMÚN CON EL EQUIPO  
+  `gcc 14.2.0`
   ### Version de C
-  > [!CAUTION]
-  > FALTA ELEGIR UNA VERSION EN COMÚN CON EL EQUIPO  
+  `C17`
